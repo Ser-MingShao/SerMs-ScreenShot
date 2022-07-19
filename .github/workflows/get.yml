@@ -14,6 +14,7 @@ jobs:
     - name: Download
       run: |
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/http://codecool.top/ -o codecool.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://serms.top/ -o serms.jpg
     
 
 
