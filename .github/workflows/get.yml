@@ -19,7 +19,7 @@ jobs:
     
 
 
-        curl https://purge.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/*.*
+        curl https://jsdelivr.pai233.top/gh/Ser-MingShao/ScreenShot@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
